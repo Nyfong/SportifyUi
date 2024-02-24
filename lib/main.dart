@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_salait/page/Homepage/intro.dart';
-import 'package:flutter_application_salait/page/Profile/account.dart';
+import 'package:flutter_application_salait/page/Profile/sportify.dart';
 
 void main() {
   runApp(Myapp());

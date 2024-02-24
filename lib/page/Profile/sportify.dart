@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_salait/page/Homepage/intro.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 
-class Acc extends StatefulWidget {
-  Acc({super.key});
+class SportifyUi extends StatefulWidget {
+  SportifyUi({super.key});
 
   @override
-  State<Acc> createState() => _AccState();
+  State<SportifyUi> createState() => _SportifyUiState();
 }
 
-class _AccState extends State<Acc> {
+class _SportifyUiState extends State<SportifyUi> {
   // List<String> images = [
   //   "https://static.javatpoint.com/tutorial/flutter/images/flutter-logo.png",
   //   "https://static.javatpoint.com/tutorial/flutter/images/flutter-logo.png",
@@ -497,7 +497,7 @@ class _AccState extends State<Acc> {
                 ),
                 Container(
                   height: 150,
-                  //color: Colors.amberAccent,
+                  //color: Colors.amberSportifyUient,
                   child: ListView(
                     scrollDirection: Axis.horizontal,
                     children: const [
